@@ -35,13 +35,22 @@ title: "Hoofdstuk 2: encryptie"
 
 ---
 
-## Let's try!
+## Let's try - basic encyption!
 
-- 7-zip & VeraCrypt om geëncrypteerde containers te maken
-- https://hogenttin.github.io/cybersecurity/h4/symmetrisch-encrypteren/symmetrisch-encrypteren/
+- 7-zip - tool voor compressie, maar ook basis-encryptie!
+- https://hogenttin.github.io/cybersecurity/h4/symmetrisch-encrypteren/symmetrisch-encrypteren/#poor-mans-encryption
 
 <img src="./img/h2/lab-1.png" style="height: 400px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/7-Zip_Logo.png" style="height: 400px;" />
+
+---
+
+## Advanced encryption - Veracrypt!
+
+- VeraCrypt: tool om geëncrypteerde containers te maken
+- https://hogenttin.github.io/cybersecurity/h4/symmetrisch-encrypteren/symmetrisch-encrypteren/#veracrypt
+
+<img src="./img/h2/lab-1.png" style="height: 400px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/VeraCrypt_Logo.svg" style="height: 400px;" />
 
 ---
