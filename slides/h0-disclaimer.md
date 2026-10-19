@@ -6,6 +6,14 @@ title: "Hoofdstuk 0: disclaimer"
 
 ---
 
+## Slides
+
+<img src="./img/h3/slides-qr.png" />
+
+https://hogent-dit-promoteam.github.io/cybersecurity-workshop/
+
+---
+
 - Enkel in een <span style="color:red">legale</span> context
   - Eigenaar of toestemming van eigenaar
 - Illegaal gebruik: kans op gerechtelijke vervolging
