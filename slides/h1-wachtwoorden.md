@@ -14,13 +14,13 @@ https://hackertyper.net/
 
 <img src="./img/h1/phishqr.png" class="r-stretch" />
 
-[https://app.wooclap.com/KHODEI](https://hogenttin.github.io/phishing-awareness/google/index.html)
+[https://app.wooclap.com/NNZBTTY](https://hogenttin.github.io/phishing-awareness/google/index.html)
 
 ---
 
 <img src="./img/h1/wooclap.png" class="r-stretch" />
 
-https://app.wooclap.com/KHODEI
+https://app.wooclap.com/NNZBTTY
 
 ---
 
@@ -32,7 +32,6 @@ https://app.wooclap.com/KHODEI
 - LiefKleinKonijntje &rarr; <span style="color:green">lang, NL (zolang de woorden random gekozen zijn)</span>
 - LiefKlijnKoneintje &rarr; <span style="color:green">lang, NL, typfout (zie hierboven)</span>
 - kmAIw0IlCUvX5nk9 &rarr; <span style="color:green">Ok! Kan je het onthouden?</span>
-- Het systeem &rarr; <span style="color:red">Systeem kan geraden worden. Wat als je een wachtwoord moet veranderen? Wat als er wachtwoordvereisten zijn?</span>
 
 ---
 
