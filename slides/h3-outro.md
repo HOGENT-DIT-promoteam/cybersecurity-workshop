@@ -23,7 +23,7 @@ https://www.hogent.be/opleidingen/bachelors/toegepaste-informatica/
 
 <img src="./img/h3/slides-qr.png" />
 
-https://hogenttin.github.io/cybersecurity-intro/
+https://hogent-dit-promoteam.github.io/cybersecurity-workshop/
 
 ---
 
