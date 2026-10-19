@@ -73,7 +73,7 @@ title: "Hoofdstuk 2: encryptie"
 
 ---
 
-## Let's try!
+## Tool om te kraken - demo John The Ripper!
 
 - 7-zip kraken met John the Ripper
 - https://hogenttin.github.io/cybersecurity/h4/zip-kraken/zip-kraken/
